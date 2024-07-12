@@ -9,13 +9,6 @@ Welcome to my GitHub profile!
 - 💡 I love solving problems and building projects that can make a difference.
 - 🌟 I'm passionate about continuous learning and always open to new challenges and opportunities.
 
-## Skills
-
-- **Languages:** TypeScript, C#, PHP
-- **Web Development:** Vue.js, HTML, CSS, Tailwind CSS
-- **Mobile Development:** Kotlin
-- **Tools:** Git, GitHub, VS Code
-
 ## Learning Goals
 
 - 📚 Deepen my understanding of **TypeScript**.
